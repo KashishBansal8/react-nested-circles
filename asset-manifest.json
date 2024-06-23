@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-nested-circles/static/css/main.08345b68.css",
+    "main.js": "/react-nested-circles/static/js/main.dc2d66d8.js",
+    "static/js/453.75e79297.chunk.js": "/react-nested-circles/static/js/453.75e79297.chunk.js",
+    "index.html": "/react-nested-circles/index.html",
+    "main.08345b68.css.map": "/react-nested-circles/static/css/main.08345b68.css.map",
+    "main.dc2d66d8.js.map": "/react-nested-circles/static/js/main.dc2d66d8.js.map",
+    "453.75e79297.chunk.js.map": "/react-nested-circles/static/js/453.75e79297.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.08345b68.css",
+    "static/js/main.dc2d66d8.js"
+  ]
+}
